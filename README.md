@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHub Page
+
+Connect with me on these platforms
+
+LinkedIn: www.linkedin.com/in/abhinandrasingh
+
+
+
 <!--
 **Abhinandra/Abhinandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
